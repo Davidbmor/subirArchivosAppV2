@@ -22,9 +22,3 @@ yarn-error.log
 /.vscode
 /.zed
 
-*
-!.gitignore
-!storage/
-!storage/app/
-!storage/app/private/
-!storage/app/private/archivos/
